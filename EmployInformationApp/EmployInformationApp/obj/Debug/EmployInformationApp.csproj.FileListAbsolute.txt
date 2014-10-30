@@ -1,0 +1,9 @@
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\bin\Debug\EmployInformationApp.exe.config
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\bin\Debug\EmployInformationApp.exe
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\bin\Debug\EmployInformationApp.pdb
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\obj\Debug\EmployInformationApp.EmployeeAppUI.resources
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\obj\Debug\EmployInformationApp.Properties.Resources.resources
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\obj\Debug\EmployInformationApp.csproj.GenerateResource.Cache
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\obj\Debug\EmployInformationApp.exe
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\obj\Debug\EmployInformationApp.pdb
+B:\BASIS\all practice\EmployInformationApp\EmployInformationApp\obj\Debug\EmployInformationApp.csprojResolveAssemblyReference.cache
